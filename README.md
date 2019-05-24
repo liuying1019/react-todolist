@@ -8,6 +8,7 @@ todolist
 可以删除事项。
 使用了antd react
 运行结果如下：
+
 初始化：
 ![初始化](https://raw.githubusercontent.com/liuying1019/react-todolist/master/screenshots/初始.png)
 增添内容：
